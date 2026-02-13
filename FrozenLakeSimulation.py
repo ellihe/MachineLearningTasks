@@ -3,7 +3,7 @@
 #then for the non-deterministic case with deterministic update rule and
 #last for the non-deterministic case with non-deterministic update rule.
 
-#author: Ellinoora Hetemaa
+#author: EH
 
 
 import gym
