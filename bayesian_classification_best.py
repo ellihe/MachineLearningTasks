@@ -1,5 +1,5 @@
 # Bayesian classification with accuracy calculation
-# author: Ellinoora Hetemaa
+# author: EH
 
 import pickle
 
