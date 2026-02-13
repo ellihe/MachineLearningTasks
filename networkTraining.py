@@ -1,5 +1,5 @@
 # Neural network training and testing
-# author: Ellinoora Hetemaa
+# author: EH
 
 import numpy as np
 import os
