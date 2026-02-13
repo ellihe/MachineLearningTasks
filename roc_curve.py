@@ -1,5 +1,5 @@
 # Calculates roc curve for certain dataset
-# author: Ellinoora Hetemaa
+# author: EH
 
 import pickle
 
