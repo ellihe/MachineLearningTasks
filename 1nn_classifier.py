@@ -1,5 +1,5 @@
 # 1NN classifier for course excercises
-# author: Ellinoora Hetemaa
+# author: EH
 
 import pickle
 import numpy as np
