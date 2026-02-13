@@ -1,5 +1,5 @@
 # Neural network training and testing
-# author: Ellinoora Hetemaa
+# author: EH
 
 from keras.utils import losses_utils
 from tensorflow import keras
