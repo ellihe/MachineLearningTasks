@@ -1,5 +1,5 @@
 # q-learning algorithm for Taxi-v3 environment
-# author: Ellinoora Hetemaa
+# author: EH
 
 import gym
 import numpy as np
