@@ -1,5 +1,5 @@
 # Neural network simulation, includes training and testing
-# author: Ellinoora Hetemaa
+# author: EH
 
 import gym
 from keras.models import Sequential
